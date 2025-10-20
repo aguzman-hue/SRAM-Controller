@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Mon Oct 20 14:54:15 2025
+# Process ID         : 24816
+# Current directory  : C:/Users/PC/Documents/GitHub/SRAM-Controller
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent23560 C:\Users\PC\Documents\GitHub\SRAM-Controller\Memoria SRAM.xpr
+# Log file           : C:/Users/PC/Documents/GitHub/SRAM-Controller/vivado.log
+# Journal file       : C:/Users/PC/Documents/GitHub/SRAM-Controller\vivado.jou
+# Running On         : LAPTOP-LGGHNJMR
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+# CPU Frequency      : 2688 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 25390 MB
+# Swap memory        : 4026 MB
+# Total Virtual      : 29416 MB
+# Available Virtual  : 6277 MB
+#-----------------------------------------------------------
+start_guopen_project {C:/Users/PC/Documents/GitHub/SRAM-Controller/Memoria SRAM.xpr}
+upupdate_compile_order -fileset sources_1
